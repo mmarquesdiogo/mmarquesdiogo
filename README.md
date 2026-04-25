@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a high school student and aspiring developer from Braz
 ## 🔭 Currently Working On
 * **Reflection & News App:** Developing a mobile application project that integrates daily personal reflections with current news events.
 * **Algorithm Practice:** Solving logic puzzles and foundational computer science problems.
-* **Integrating Systems into my real life:** Currently trying to implement my own system in my mom's market.
+* **Integrating Systems into my real life:** Currently trying to implement my own system into my mom's market.
 
 ## 📫 How to reach me
 * **Email:** diogolmmachado@gmail.com
